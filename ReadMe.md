@@ -16,13 +16,6 @@ This project showcases a Telegram chatbot powered by an AI Agent (Anthropic Clau
 - `JSON`
 - `HTTP Requests`
 
-## 📷 Screenshot
-![Workflow](C:\Users\athar\Pictures\Screenshots\Screenshot 2025-05-27 145356.png)
-
-## 📁 Files
-- `workflow.json` – Full exported n8n flow
-- Screenshot – Visual of actual workflow
-
 ## 🚀 Note
 This project was originally hosted on n8n Cloud during my internship at Rescale Technologies. Now self-hosted and available for demo or deployment.
 
